@@ -12,6 +12,6 @@ meanings that sustain their conspiracy worldview and group identity.
 
 ## Citation
 If you use QAnon Canon in your work, please cite:
-_Shruti Phadke, Mattia Samory, Tanushree Mitra. 2021. Characterizing Social Imaginaries
+Shruti Phadke, Mattia Samory, Tanushree Mitra. 2021. Characterizing Social Imaginaries
 and Self-Disclosures of Dissonance in Online Conspiracy Discussion Communities. Proc. ACM
-Hum.-Comput. Interact. Computer Supported Cooperative Work (CSCW’ 21), (accepted Jul 2021)._
+Hum.-Comput. Interact. Computer Supported Cooperative Work (CSCW’ 21), (accepted Jul 2021).
