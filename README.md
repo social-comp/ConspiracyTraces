@@ -7,3 +7,11 @@ _Obama_, _Hussein_, _Obamas_, _ObamaHillaryCIA_, _Barack_, _Obummer_, _0bama_. Q
 
 The symbolic, insider language captured in QAnon Canon can help in understanding how members of QAnon discussion groups create, develop, and propagate shared
 meanings that sustain their conspiracy worldview and group identity.
+
+**qanon_canon.json** : This file contains the QAnon Canon lexicon in the dictionary format where keys are the names of QAnon social imaginaries and the values are words and phrases representing the social imaginaries. 
+
+## Citation
+If you use QAnon Canon in your work, please cite:
+_Shruti Phadke, Mattia Samory, Tanushree Mitra. 2021. Characterizing Social Imaginaries
+and Self-Disclosures of Dissonance in Online Conspiracy Discussion Communities. Proc. ACM
+Hum.-Comput. Interact. Computer Supported Cooperative Work (CSCW’ 21), (accepted Jul 2021)._
